@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # autoGreen
 a commit a day keeps your girlfriend away.
 =======
@@ -53,4 +52,3 @@ a commit a day keeps your girlfriend away.
 ## License
 
 [auto-green](https://github.com/justjavac/auto-green) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
->>>>>>> 7bf1115 (初次提交)
