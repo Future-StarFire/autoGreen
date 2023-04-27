@@ -12,9 +12,15 @@ jobs:
     runs-on: ubuntu-latest
     
     permissions: 
-      - read-all
-      - write-all
-  
+      actions: write
+      checks: write
+      contents: write
+      deployments: write
+      id-token: write
+      packages: write
+      pages: write
+      pull-requests: write
+      repository-projects: write
     steps:
       - name: Clone repository
         uses: actions/checkout@v3
